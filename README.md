@@ -13,10 +13,10 @@ Nava Applications List
 
 ## [Nava Music Player](https://github.com/Nava-ORG/nava-music-player)
 
-**Windows :** [arm64](https://github.com/Nava-ORG/nava-music-player/releases/download/main/Nava-Music-Player-win32-arm64.rar) **|** (66.1 MB) **|** [ia32](https://github.com/Nava-ORG/nava-music-player/releases/download/main/Nava-Music-Player-win32-ia32.rar) (62.3 MB) **|** [x64](https://github.com/Nava-ORG/nava-music-player/releases/download/main/Nava-Music-Player-win32-x64.rar) (65.1 MB)
-**MacOS :** [x64](https://github.com/Nava-ORG/nava-music-player/releases/download/main/Nava-Music-Player-mas-x64.rar) (103 MB) 
-**Linux :** [arm64](https://github.com/Nava-ORG/nava-music-player/releases/download/main/Nava-Music-Player-linux-arm64.rar) (65.3 MB) **|** [armv7l](https://github.com/Nava-ORG/nava-music-player/releases/download/main/Nava-Music-Player-linux-armv7l.rar) (58.5 MB) **|** [ia32](https://github.com/Nava-ORG/nava-music-player/releases/download/main/Nava-Music-Player-linux-ia32.rar) (63.2 MB) **|** [x64](https://github.com/Nava-ORG/nava-music-player/releases/download/main/Nava-Music-Player-linux-x64.rar) (62.4 MB)
-**Source :** [zip](https://github.com/Nava-ORG/nava-music-player/archive/refs/tags/main.zip) **|** [tar.gz](https://github.com/Nava-ORG/nava-music-player/archive/refs/tags/main.tar.gz) 
+**Windows :** [arm64](https://github.com/Nava-ORG/nava-music-player/releases/download/main/Nava-Music-Player-win32-arm64.rar) **|** (66.1 MB) **|** [ia32](https://github.com/Nava-ORG/nava-music-player/releases/download/main/Nava-Music-Player-win32-ia32.rar) (62.3 MB) **|** [x64](https://github.com/Nava-ORG/nava-music-player/releases/download/main/Nava-Music-Player-win32-x64.rar) (65.1 MB)<br/>
+**MacOS :** [x64](https://github.com/Nava-ORG/nava-music-player/releases/download/main/Nava-Music-Player-mas-x64.rar) (103 MB) <br/>
+**Linux :** [arm64](https://github.com/Nava-ORG/nava-music-player/releases/download/main/Nava-Music-Player-linux-arm64.rar) (65.3 MB) **|** [armv7l](https://github.com/Nava-ORG/nava-music-player/releases/download/main/Nava-Music-Player-linux-armv7l.rar) (58.5 MB) **|** [ia32](https://github.com/Nava-ORG/nava-music-player/releases/download/main/Nava-Music-Player-linux-ia32.rar) (63.2 MB) **|** [x64](https://github.com/Nava-ORG/nava-music-player/releases/download/main/Nava-Music-Player-linux-x64.rar) (62.4 MB)<br/>
+**Source :** [zip](https://github.com/Nava-ORG/nava-music-player/archive/refs/tags/main.zip) **|** [tar.gz](https://github.com/Nava-ORG/nava-music-player/archive/refs/tags/main.tar.gz) <br/>
 
 > All the files are in RAR format 
 
